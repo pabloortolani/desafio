@@ -10,8 +10,6 @@ https://documenter.getpostman.com/view/9163946/2sA3s3JXE8
 - SOLID, PSR.
 - RESTFull.
 - Arquitetura em camadas: Controller, Services, Repository e Entity.
-- Designer Pattern Adapter.
-    * Adapter é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si. O Pattern foi usado para criar uma interface padrão de comunicação com os serviços externos.
 - No testes unitários desenvolvido com PHPUnit, foi "mockada" a comunicação com os serviços externos pois não era o objetivo do teste unitário testar a comunicação com os serviços.
 
 ## Melhorias que podem ser aplicadas
